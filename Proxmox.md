@@ -1,0 +1,1 @@
+Proxmox is a virtualization utility built on Debian [[Linux]]. It can be used to create [[Virtual Machines]] or [[LXC]] containers.
